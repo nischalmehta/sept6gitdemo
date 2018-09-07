@@ -5,3 +5,4 @@ hello from local
 
 hello from local 2
 change to conflict from local
+change to conflict from remote
